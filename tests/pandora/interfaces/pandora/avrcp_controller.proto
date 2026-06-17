@@ -1,7 +1,0 @@
-syntax = "proto3";
-
-option java_outer_classname = "AvrcpControllerProto";
-
-package pandora;
-
-service AvrcpController {}
